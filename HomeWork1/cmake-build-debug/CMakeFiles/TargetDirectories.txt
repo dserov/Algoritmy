@@ -1,3 +1,0 @@
-D:/My Projects/Algoritmy/HomeWork1/cmake-build-debug/CMakeFiles/HomeWork1.dir
-D:/My Projects/Algoritmy/HomeWork1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/My Projects/Algoritmy/HomeWork1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
